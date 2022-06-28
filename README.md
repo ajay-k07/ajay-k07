@@ -27,12 +27,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajay-k07&show_icons=true&locale=en" alt="ajay-k07" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajay-k07&" alt="ajay-k07" /></p>
+<p><a href="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/47478366"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajay-k07&" alt="ajay-k07" /></p>
 
-<iframe
-  src="https://www.credential.net/embed/291e9f31-7e61-4a64-ac6e-66e0c0af9725"
-  width="800"
-  height="600"
-  frameborder="0"
-  allowfullscreen>
-</iframe>
