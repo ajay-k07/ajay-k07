@@ -23,3 +23,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajay-k07&show_icons=true&locale=en" alt="ajay-k07" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajay-k07&" alt="ajay-k07" /></p>
+
+<p><img align="center" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/47478366" alt="ajay-k07"/></p>
