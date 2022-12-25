@@ -18,6 +18,8 @@
 
 - 📫 How to reach me **ajaykandhaswamy07@gmail.com**
 
+- [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@ajay-k07) [Check Out Videos](https://www.youtube.com/@ajay-k07)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ajay-k07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajay-k07" height="30" width="40" /></a>
