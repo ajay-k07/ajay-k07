@@ -11,11 +11,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajay-k07" alt="ajay-k07" /></a> </p>
 
-- 🔭 I’m currently working on **ProBilling**
+- 🔭 I’m currently working on **Serverpod**
 
-- 🌱 I’m currently learning **Google Cloud and DSA**
+- 🌱 I’m currently learning **Google Cloud and Flutter Intermediate**
 
-- 💬 Ask me about **Flutter,Java or Google Cloud**
+- 💬 Ask me about **Flutter,Google Cloud and Java**
 
 - 📫 How to reach me **ajaykandhaswamy07@gmail.com**
 
