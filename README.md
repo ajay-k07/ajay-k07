@@ -1,3 +1,4 @@
+![bg](https://user-images.githubusercontent.com/37687348/210135516-bcb17bb1-1acc-4fbe-bff5-d1360acec542.jpeg)
 <h1 align="center">Hi 👋, I'm Ajay k</h1>
 <h3 align="center">A passionate Flutter developer from India</h3>
 
