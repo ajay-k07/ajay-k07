@@ -4,7 +4,7 @@
 
 <h4>Certifications</h4>
 
-<p><img align="center" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/47478366" alt="ajay-k07"/></p>
+![](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/47478366) ![](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/65620747)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay-k07&label=Profile%20views&color=0e75b6&style=flat" alt="ajay-k07" /> </p>
